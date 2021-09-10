@@ -11,7 +11,7 @@ description: How you can list your TestNet project or dApp on the Moonbeam docum
 
 ## Minimum Content
 
-In general, to be considered and added to this list, your project/dApp must meet the following requirements in terms of content:
+In general, test to be considered and added to this list, your project/dApp must meet the following requirements in terms of content:
 
  - Introduction (see template file)
  - Show working contracts and/or front-ends deployed or connected to the Moonbase Alpha TestNet
